@@ -7,7 +7,7 @@ Infrastructure and endpoint monitoring.
 ```
 
 ### ✨ Architecture
-![images](mlops.png)
+![](images/mlops.png)
 
 ### 🔥 Technologies Used
 ``` 
