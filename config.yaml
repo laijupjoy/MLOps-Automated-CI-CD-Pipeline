@@ -13,8 +13,8 @@ model_registry:
     - scaler.pkl
 
 email_params:
-  sender_email: ketangangal98@gmail.com
-  receiver_email: ketangangal98@gmail.com
+  sender_email: laijupjoy01@gmail.com
+  receiver_email: laijupjoy01@gmail.com
   application_key:
   train_message : "Model Trained and successfully Registered"
   test_message : "Model Test and successfully shifted into Production"
